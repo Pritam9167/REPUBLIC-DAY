@@ -1,0 +1,110 @@
+/* history-styles.css */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+  }
+  
+  .history-page header {
+    background-color: #d35400;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+  }
+  
+  nav {
+    margin-top: 10px;
+  }
+  
+  nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+  }
+  
+  main {
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+  }
+  
+  main h2 {
+    color: #d35400;
+  }
+  
+  main section {
+    margin-bottom: 30px;
+  }
+  
+  main section img {
+    width: 100%;
+    max-width: 400px;
+    margin-top: 15px;
+    border-radius: 10px;
+  }
+  
+  footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+  }
+  
+  footer a {
+    color: #f1c40f;
+    text-decoration: none;
+  }
+  
+  footer a:hover {
+    text-decoration: underline;
+  }
+  body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-image: url(flagRice.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: white;
+  }
+  
+  header {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    text-align: center;
+  }
+  
+  header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+    color: #f1c40f;
+  }
+  
+  main {
+    background-color: rgba(0, 0, 0, 0.7); /* Add a semi-transparent layer for readability */
+    padding: 20px;
+    max-width: 800px;
+    margin: 50px auto;
+    border-radius: 10px;
+  }
+  
+  main h2 {
+    color: #f1c40f;
+  }
+  
+  main p, main ul {
+    line-height: 1.6;
+  }
+    

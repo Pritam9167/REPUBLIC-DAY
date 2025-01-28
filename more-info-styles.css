@@ -1,0 +1,79 @@
+/* more-info-styles.css */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-image: url(jay\ hind.jpg);
+    color: #333;
+  }
+  
+  .info-page header {
+    background-color: #16a085;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+  }
+  
+  nav {
+    margin-top: 10px;
+  }
+  
+  nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+  }
+  
+  main {
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+  }
+  
+  main h2 {
+    color: #16a085;
+  }
+  
+  main section {
+    margin-bottom: 30px;
+  }
+  
+  main section img {
+    width: 100%;
+    max-width: 300px;
+    margin-top: 15px;
+    border-radius: 10px;
+  }
+  
+  main ul {
+    list-style-type: disc;
+    margin: 15px 0;
+    padding-left: 20px;
+  }
+  
+  footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+  }
+  
+  footer a {
+    color: #f1c40f;
+    text-decoration: none;
+  }
+  
+  footer a:hover {
+    text-decoration: underline;
+  }
+  
